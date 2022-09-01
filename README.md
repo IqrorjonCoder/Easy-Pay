@@ -11,8 +11,8 @@ https://user-images.githubusercontent.com/111178357/187918402-b4ce6f49-d96e-43f2
 
 
 
-you can download the Application as zip file
 
+you can download the Application as zip file
 [easy_pay.zip](https://github.com/IqrorjonCoder/Easy-Pay/files/9470007/easy_pay.zip)
 
 
