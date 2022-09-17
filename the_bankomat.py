@@ -7,9 +7,6 @@ import os
 video_capture = cv2.VideoCapture(0)
 
 
-# video_capture = cv2.VideoCapture('http://172.0.16.45:8080/video')
-
-
 def face_recognitionn(known_face_encodings, known_face_names):
 
     narx = input("Enter payment summ :")
